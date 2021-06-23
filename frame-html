@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="utf-8">
+    <title>SPT Trading Program</title>
+    <meta name="description" content="">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Philosopher" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <div id="home" class="big-bg">
+        <header class="page-header wrapper">
+            <h1>
+                <a href="index.html"><img class="logo" src="images/logo.svg" alt="SPT 사이트 홈"></a>
+            </h1>
+            <nav>
+                <ul class="main-nav">
+                    <li><a href="news.html">News</a></li>
+                    <li><a href="menu.html">Menu</a></li>
+                    <li><a href="download.html">Download</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <div class="home-content wrapper">
+            <h2 class="page-title">..</h2>
+            <p>..</p>
+            <a class="button" href="download.html">..</a>
+        </div>
+    </div>
+</body>
+
+</html>
